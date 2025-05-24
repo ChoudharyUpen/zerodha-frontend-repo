@@ -24,9 +24,9 @@ for running dashboard your backend should run first
    step2 - node index.js  
 
 repositry -----
-1.frontend    zerodha frontend repo
-2.backend     zerodha backend repo
-3.database    zerodha dashboard repo
+1.frontend    zerodha frontend repo  https://github.com/ChoudharyUpen/zerodha-frontend-repo
+2.backend     zerodha backend repo  https://github.com/ChoudharyUpen/zerodha-backend-repo
+3.database    zerodha dashboard repo   https://github.com/ChoudharyUpen/zerodha-dashboard-repo
 
 deployment -----
 1.frontend  vercel 
