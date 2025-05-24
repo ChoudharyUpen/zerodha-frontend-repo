@@ -30,7 +30,8 @@ export default function Signup() {
       alert("✅ Verified Successfully!");
       // Yaha tu redirect kar sakta hai dashboard pe
       //window.location.href = "/dashboard";
-      window.location.href = "http://localhost:3001"; // Redirect to backend/dashboard
+      //window.location.href = "http://localhost:3001"; // Redirect to backend/dashboard
+      window.location.href = "https://zerodha-dashboard-repo.vercel.app"; // Redirect to deployed dashboard
     } else {
       alert("❌ Invalid OTP");
     }
